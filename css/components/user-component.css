@@ -1,0 +1,36 @@
+.user-component,
+.user-component__column:first-child {
+  display: flex;
+  align-items: center;
+}
+
+.user-component__avatar {
+  height: 70px;
+  width: 70px;
+  border-radius: 30px;
+  margin-right: 20px;
+}
+
+.user-component__avatar-xs {
+  height: 60px;
+  width: 60px;
+  border-radius: 24px;
+}
+
+.user-component__avatar-xl {
+  height: 80px;
+  width: 80px;
+}
+
+.user-component__title {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.user-component__subtitle {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.friend-screen {
+  margin-left: var(--horizon-space);
+}
