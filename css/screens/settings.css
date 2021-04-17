@@ -1,0 +1,21 @@
+.settings__list {
+  list-style: none;
+}
+
+.settings__setting {
+  padding: 15px 0px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.settings__setting i {
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+.settings__setting-column {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

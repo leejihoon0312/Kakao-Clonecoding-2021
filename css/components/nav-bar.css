@@ -19,24 +19,9 @@
 }
 
 .nav__notification {
-  background-color: tomato;
-  height: 30px;
-  width: 30px;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   position: absolute;
-  left: 15px;
-  bottom: 15px;
 }
 
 .nav__alarm {
-  background-color: tomato;
-  height: 5px;
-  width: 5px;
-  border-radius: 50%;
   position: absolute;
-  left: 31px;
-  bottom: 28px;
 }
