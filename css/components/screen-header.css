@@ -23,3 +23,16 @@
 .screen-header__alarm {
   position: relative;
 }
+
+.screen-header__icon .fa-cog:hover {
+  animation: cogrotate 1.5s linear infinite;
+}
+
+@keyframes cogrotate {
+  from {
+    transform: none;
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
