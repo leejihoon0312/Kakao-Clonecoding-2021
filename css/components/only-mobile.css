@@ -23,14 +23,8 @@
   font-size: 35px;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 800px) {
   #only-mobile {
-    display: none;
-  }
-}
-
-@media screen and (orientation: portrait) {
-  #only-portrait {
     display: none;
   }
 }
