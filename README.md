@@ -1,3 +1,3 @@
-# kokoa clone 2021
+# Kakao-Clonecoding-2021
 
-wow amazing
+Kakao-Clonecoding-2021
